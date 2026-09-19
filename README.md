@@ -51,6 +51,3 @@ MIT.
 4. Жми «СКАЧАТЬ» и жди
 
 ⚠️ Клади EXE туда, где есть права на запись: `C:\Games\`, Рабочий стол, флешка. Не в `Program Files`.
-```bash
-pip install gdown pyinstaller
-python -m PyInstaller --onefile --noconsole --noupx --collect-all gdown --name "Game Launcher" launcher.py
